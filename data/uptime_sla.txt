@@ -1,0 +1,14 @@
+# Uptime SLA Policy
+
+## Service Level Agreement
+We guarantee 99.9% uptime monthly.
+Scheduled maintenance windows are announced 48 hours in advance.
+
+## Downtime Resolution Timeline
+Critical outages are resolved within 1 hour.
+Major incidents are resolved within 4 hours.
+Minor issues are resolved within 24 hours.
+
+## Operational Impact
+During downtime, all billing cycles are paused automatically.
+Credits are issued for any downtime exceeding SLA guarantees.

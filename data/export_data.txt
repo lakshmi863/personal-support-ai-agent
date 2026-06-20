@@ -1,0 +1,6 @@
+Data Portability & Export
+Users own their data. You can download your entire workspace database at any time.
+Format: JSON or CSV (Spreadsheet).
+Go to 'Organization Settings' -> 'Data Management'.
+Select the date range and click 'Generate Export'.
+Large exports (over 5GB) can take up to 2 hours to process.

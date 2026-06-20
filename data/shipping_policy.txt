@@ -1,0 +1,25 @@
+"Orders are processed within 24 hours. Express shipping takes 2-3 business days."NexusCloud Hardware & Asset Shipping Policy
+Document ID: OPS-SHP-2024
+Last Updated: October 2023
+1. Overview
+While NexusCloud is primarily a software-based SaaS provider, we ship physical hardware (Edge Routers, MFA Security Keys, and Enterprise Servers) to our corporate clients. This policy outlines the delivery expectations, costs, and troubleshooting steps for physical asset delivery.
+2. Order Processing & Lead Times
+Standard Items: Security keys and small components are processed within 1–2 business days.
+Enterprise Hardware: Custom-configured servers and Rack Edge units require 5–7 business days for staging, security patching, and boxing before they are released to the carrier.
+Orders Placed After 3:00 PM EST: These will be considered as part of the following business day's queue.
+3. Shipping Methods & Carriers
+We utilize major global carriers to ensure secure delivery of infrastructure hardware:
+Standard Ground: 3–5 business days (Domestic US/Canada).
+Priority Overnight: Next business day delivery (must be ordered before 12:00 PM EST).
+International Economy: 7–14 business days depending on customs clearance in the destination country.
+Carriers: FedEx, UPS, and DHL (for International).
+4. Tracking Your Assets
+Once an item leaves our logistics hub, an automated email containing a Tracking Number and a direct link to the carrier’s portal will be sent to the "Shipping Contact" listed in your Enterprise Dashboard. Note that tracking status may take up to 12 hours to update after the initial scan.
+5. Delivery Issues & Troubleshooting
+Package Marked as Delivered (but not received): Check with building reception or the mailroom first. If not found within 24 hours, contact support@nexuscloud.io to initiate a "Carrier Search."
+Damaged on Arrival: If hardware arrives with visible box damage, do not break the "Security Seal" on the internal static-shielding bag. Take photos and contact the NexusCloud hardware team immediately.
+Lost in Transit: If a package has no tracking update for more than 48 hours, our team can escalate a trace with the carrier.
+6. International Shipping & Customs
+NexusCloud ships DDU (Delivered Duty Unpaid) for most regions. Recipients are responsible for any local VAT, import duties, or customs brokerage fees. If a package is held at customs for more than 3 days, our legal team can provide a "Certificate of Compliance" to help release the hardware.
+7. Returns & RMA (Return Merchandise Authorization)
+Hardware returns are only accepted within 14 days for unopened units. Defective hardware under warranty requires an RMA number before being shipped back to our service center. Unsolicited returns will be rejected at the warehouse gate.

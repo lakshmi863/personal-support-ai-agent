@@ -1,0 +1,5 @@
+Syncing the Mobile App
+If your mobile app (iOS/Android) is not showing the latest desktop changes:
+- Pull down to refresh.
+- Check that 'Background App Refresh' is enabled in your Phone Settings.
+- Log out and log back in to force a re-sync with the primary database server.

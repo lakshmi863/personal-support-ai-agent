@@ -1,0 +1,8 @@
+Troubleshooting the Web Interface
+If the dashboard is stuck loading, it is often due to a browser cache issue.
+Clear Cookies steps: 
+1. Open Chrome Settings. 
+2. Select 'Privacy and Security'. 
+3. Click 'Clear browsing data'. 
+4. Select 'Cookies and other site data'.
+After clearing cookies, please refresh the page to restart the app session.
