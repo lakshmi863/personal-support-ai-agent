@@ -4,6 +4,11 @@ A state-of-the-art Retrieval-Augmented Generation (RAG) customer support system 
 
 web site url( https://personal-support-ai-agent.onrender.com )
 
+Architecture image:
+
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/bc929790-dbd4-4e02-93b2-30d99d4427e6" />
+
+
 Features
 
 Persona-Adaptive Responses: Automatically classifies users into three personas:
